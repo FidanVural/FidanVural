@@ -1,7 +1,5 @@
 # 👋 Hi, I’m **Şilan Fidan Vural**
 
----
-
 ## 🧭 About Me
 - 🧪 Passionate about Computer Vision and Generative AI.
 - ⚡ Currently working on **quantization and efficient inference techniques for diffusion models**.
