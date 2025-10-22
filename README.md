@@ -1,8 +1,5 @@
 # 👋 Hi, I’m **Şilan Fidan Vural**
 
-**ML Engineer at [@wiroai](https://github.com/wiroai)**  
-🎓 **M.Sc. Student at Sabancı University**  
-
 ---
 
 ## 🧭 About Me
