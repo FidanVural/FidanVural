@@ -15,4 +15,4 @@
 
 ---
 
-⭐ *You can also find me on [LinkedIn](https://www.linkedin.com/in/fidan-vural-ce/). Feel free to connect with me.*
+⭐ *You can also find me on [LinkedIn](https://www.linkedin.com/in/fidan-vural-ce/) and [Medium](https://medium.com/@fidanvural1907). Feel free to connect with me.*
